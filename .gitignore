@@ -1,0 +1,16 @@
+
+# Python environment
+.venv/
+__pycache__/
+.vscode/
+
+# Large dataset
+wiki_article_list_2023_tra.json
+
+# Models and databases
+*.pkl
+*.db
+*.db-wal
+*.db-shm
+*.bin
+wiki_full_results/
